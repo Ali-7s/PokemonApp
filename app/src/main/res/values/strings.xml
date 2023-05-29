@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Pokemon</string>
+    <string name="charmander">Tap Charmander to evolve him!</string>
+    <string name="charmeleon">Tap Charmeleon to evolve him!</string>
+    <string name="charizard">Tap Charizard for a surprise!</string>
+
+    <string name="reset_evolution">Tap to reset the evolution</string>
+    <string name="charmander_content_description">Charmander</string>
+    <string name="charmeleon_content_description">Charmeleon</string>
+    <string name="charizard_content_description">Charizard</string>
+    <string name="charizard_surprise_content_description">Charizard doing flamethrower!</string>
+
+</resources>
